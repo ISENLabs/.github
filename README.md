@@ -1,4 +1,4 @@
-# ISENLABS - Club d'informatique de l'ISEN Ouest
+# ISENLABS - Club d'informatique de l'ISEN Caen
 
 ## Qui sommes-nous ?
 
@@ -10,7 +10,9 @@ Le club est à l'origine de plusieurs projets, dont :
 
 - [Lazy](https://lazy.isenlabs.fr) : LA plateforme de gestion de la vie étudiante à l'ISEN Ouest. Agenda, emploi du temps, notes, etc. Tout est là !
 
-- [Cloudisen](): Un service de cloud personnel pour les étudiants de l'ISEN Ouest. Besoin d'une machine virtuelle pour un projet ? Cloudisen est là pour vous !
+- Cloudisen: Un service de cloud personnel pour les étudiants de l'ISEN Ouest. Besoin d'une machine virtuelle pour un projet ? Cloudisen est là pour vous ! *(Contactez-nous pour plus d'informations)*
+
+- Codisen: Vous connaissez probablement "LeetCode" ou "HackerRank". Codisen est une plateforme similaire, mais adaptée aux étudiants de l'ISEN Ouest. Vous pouvez y résoudre des problèmes, gagner des points, et même participer à des concours ! *(Actuellement en développement - Envie de contribuer ? Contactez-nous !)*
 
 ## Nous rejoindre
 
